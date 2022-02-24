@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "system_error": "cpp",
+        "xlocale": "cpp"
+    },
+    "java.project.sourcePaths": [
+        "2022/solutions/Factorial/Java",
+        "2022/solutions/BubbleSort/Java",
+        "2022/problems/PrimeNumbers/Java"
+    ]
+}
